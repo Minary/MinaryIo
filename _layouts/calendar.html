@@ -4,12 +4,16 @@ layout: default
 
 <div class="calendar">
 
+  {% if site.active_lang == 'de' %}
+  <h1 class="page-heading">Kalender</h1>
+  {% else %}
   <h1 class="page-heading">Calendar</h1>
+  {% endif %}
   
   {{ content }}
 
   <ul class="post-list">
-    {% for post in site.posts %}
+    {% for post in site.categories.calendar %}
       <li>
         {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
@@ -21,6 +25,12 @@ layout: default
     {% endfor %}
   </ul>
 
+  {% if site.active_lang == 'en' %}
   <p class="rss-subscribe">Subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+  {% endif %}
+  {% if site.active_lang == 'de' %}
+  <p class="rss-subscribe">Abonnieren <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+  {% endif %}
+
 
 </div>
