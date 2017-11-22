@@ -2,14 +2,6 @@
  * Site header
  */
 
-nav.site-nav .trigger.second-row {
-    border-top: 1px solid $grey-color; 
-}
-
-nav.site-nav .trigger {
-    padding-left: 1em;
-    padding-right: 1em;
-}
 
 .site-header {
   border-top: 5px solid $grey-color-dark;
@@ -46,14 +38,27 @@ nav.site-nav .trigger {
     display: none;
   }
 
+  .trigger.second-row {
+      border-top: 1px solid $grey-color; 
+  }
+
+  .trigger {
+    padding-left: 1em;
+    padding-right: 1em;
+  }
+
   .page-link {
     color: $text-color;
     line-height: $base-line-height;
+    width: 100px;
+    display: inline-block;
 
     // Gaps between nav items, but not on the last one
-    &:not(:last-child) {
-      margin-right: 20px;
-    }
+    //&:not(:last-child) {
+    //  margin-left: 10px;
+    //  margin-right: 10px;
+    //}
+
   }
 
   @include media-query($on-palm) {
