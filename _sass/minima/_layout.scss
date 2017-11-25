@@ -69,7 +69,12 @@
   //}
 
   .page-link {
-    color: lighten($brand-color-light, 10%);
+    @include media-query($on-laptop) {
+      color: lighten($brand-color-light, 10%);
+    }
+    @include media-query($on-palm) {
+      color: $text-color;
+    }
     line-height: $base-line-height;
     display: inline-block;
 
