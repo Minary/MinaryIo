@@ -70,9 +70,11 @@
 
   .page-link {
     color: lighten($brand-color-light, 10%);
+    font-family: "Asap Condensed";
 
     @include media-query($on-palm) {
       color: $text-color;
+      font-weight: normal;
     }
     line-height: $base-line-height;
     display: inline-block;
