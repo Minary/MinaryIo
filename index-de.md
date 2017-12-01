@@ -4,10 +4,9 @@ permalink: /
 lang: de
 ---
 
-# Über Minary
-
-german home stuff
+{% include about-de.md %}
 
 ## Neueste Findings
 
 {% include latest_findings.html %}
+
