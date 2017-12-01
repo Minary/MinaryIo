@@ -21,7 +21,7 @@ description:
 
 baseurl: "/beta" # the subpath of your site, e.g. /blog
 url: "https://minary.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
+twitter_username: minaryio
 github_username:  Minary
 
 # Build settings

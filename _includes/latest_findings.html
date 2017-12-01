@@ -1,0 +1,13 @@
+  <ul class="post-list">
+    {% for post in site.categories.findings limit:5%}
+      <li>
+        {% if site.active_lang == 'de' %}
+          {% assign date_format = "%d.%m.%Y" %}
+        {% else %}
+          {% assign date_format = "%d/%m/%Y" %}
+        {% endif %}
+
+        {{ post.date | date: date_format }}: <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+      </li>
+    {% endfor %}
+  </ul>
