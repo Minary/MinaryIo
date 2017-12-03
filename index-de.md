@@ -10,3 +10,4 @@ lang: de
 
 {% include latest_findings.html %}
 
+index-de ...

@@ -5,4 +5,5 @@ lang: de
 permalink: /contact/
 ---
 
-Kontakt.
+Ist eine Kontaktaufnahme gewünscht, kann diese entweder via **[Twitter](https://twitter.com/rubenunteregger)** oder der **[E-Mail](mailto:ruben.unteregger@gmail.com)** erfolgen.
+
