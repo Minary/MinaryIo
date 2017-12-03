@@ -20,23 +20,30 @@
         {% capture english_url %}{{site.url}}{{ site.baseurl }}{{ page.url }}{%endcapture%}
 
         <div class="trigger">
-            <a class="page-link border" href="{{ "contact" | relative_url }}">Kontakt</a>
-            <a class="page-link" href="{{ "users" | relative_url }}">Benutzer</a>
-            <a class="page-link border" href="{{ "companies" | relative_url }}">Firmen</a>
-            <a class="page-link" href="{{ "findings" | relative_url }}">Findings</a>
+            <a class="page-link border" href="{{ "findings" | relative_url }}">Findings</a>
+            <a class="page-link" href="{{ "users" | relative_url }}">Benutzer/-innen</a>
+            <a class="page-link" href="{{ "companies" | relative_url }}">Firmen</a>
+            <a class="page-link border" href="{{ "developers" | relative_url }}">Entwickler/-innen</a>
             <a class="page-link" href="{{ "download" | relative_url }}">Download</a>
-            <a class="page-link" href="{{ "developers" | relative_url }}">Entwickler</a>
-        </div>
+            <a class="page-link" href="{{ "contact" | relative_url }}">Kontakt</a>
+            <a class="page-link border" href="{{ "about" | relative_url }}">Über Minary</a>
         {% else %}
         <div class="trigger">
-            <a class="page-link border" href="{{ "contact" | relative_url }}">Contact</a>
+            <a class="page-link border" href="{{ "findings" | relative_url }}">Findings</a>
             <a class="page-link" href="{{ "users" | relative_url }}">Users</a>
-            <a class="page-link border" href="{{ "companies" | relative_url }}">Companies</a>
-            <a class="page-link" href="{{ "findings" | relative_url }}">Findings</a>
+            <a class="page-link" href="{{ "companies" | relative_url }}">Companies</a>
+            <a class="page-link border" href="{{ "developers" | relative_url }}">Developers</a>
             <a class="page-link" href="{{ "download" | relative_url }}">Download</a>
-            <a class="page-link" href="{{ "developers" | relative_url }}">Developers</a>
-        </div>
+            <a class="page-link" href="{{ "contact" | relative_url }}">Contact</a>
+            <a class="page-link border" href="{{ "about" | relative_url }}">About</a>
         {% endif %}
+
+            {% if site.active_lang == 'de' %}
+            <a class="page-link" href=" {{site.url}}{{ site.baseurl }}{{ page.url }}">English</a>
+            {% else %}
+            <a class="page-link" href="{{ site.baseurl }}/de{{ page.url }}">Deutsch</a>
+            {% endif %}
+        </div>
       </nav>
   </div>
 </header>

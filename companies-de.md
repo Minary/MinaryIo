@@ -5,9 +5,11 @@ lang: de
 permalink: /companies/
 ---
 
-  - Minary greift Zielsysteme durch broadcastende Protokolle an. Gegenwärtig ist es ARP, die folgenden Protokolle werden DHCP und NDP für IPv6 sein. Diese Angriffe können auf den (professionellen) Switches eliminiert werden. 
+Um es als Firma besser zu machen, hier einige Tipps, mit denen man sich auch gegen Tools wie Minary wehren kann:
 
-  - Es gibt keinen plausiblen Grund mehr, kein HTTPS anzubieten. **[Let's Encrypt](https://letsencrypt.org/)** bietet gratis Zertifikate an, die im Nu erstellt sind.
+  - Minary greift Zielsysteme durch broadcastende Protokolle an. Gegenwärtig ist es ARP, die folgenden Protokolle werden DHCP und NDP für IPv6 sein. Diese Angriffe können auf (professionellen) Switches eliminiert werden. 
+
+  - Es gibt keinen plausiblen Grund mehr, kein HTTPS anzubieten. [Let's Encrypt](https://letsencrypt.org/) bietet gratis Zertifikate an, die im Nu erstellt sind.
   
   - Erzwinge den Gebrauch der verschlüsselten Seite durch Verweise mittels **Permanent  Redirects** auf die HTTPS-Web-Seite.
   
