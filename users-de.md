@@ -1,36 +1,33 @@
 ---
 layout: page
-title: Benutzer
+title: Benutzer/-innen
 lang: de
 permalink: /users/
 ---
 
-Leute ausspionieren ist mit wenig Kenntnis möglich. Es gibt erprobte Mittel und Methoden, um die Arbeit der Angreifer zu erschweren. Diese Auflistung hilft, das digitale Leben ein wenig sicherer zu machen! 
+Leute ausspionieren ist mit wenig Kenntnis möglich. Es gibt erprobte Mittel und Methoden, um die Arbeit der Angreifer zu erschweren. Diese Auflistung hilft, das digitale Leben ein wenig sicherer zu machen! Damit verteidigt man sich auch gegen Werkzeuge wie Minary.
 
+## Der Computer und so
 
-
-## Der Computer und so ##
-
-  Wer in Computern/Smart Phones lediglich ein Gebrauchsgegenstand sieht, sollte die Sicherheit an jemanden übergeben, der Spass an diesen Geräten hat und etwas davon versteht. Die Punkte in diesem Abschnitt erfordern ein wenig technisches Verständnis. Ein Teenager des Vertrauens wird sich gerne gegen ein wenig Lohn darum kümmern!! 
+Wer in Computern/Smartphones lediglich einen Gebrauchsgegenstand sieht, sollte die Sicherheit an jemanden übergeben, der Spass an diesen Geräten hat und etwas davon versteht. Die Punkte in diesem Abschnitt erfordern ein wenig technisches Verständnis. Ein Teenager des Vertrauens wird sich gerne gegen ein wenig Lohn darum kümmern!
   
-  - Auf Computern/Smart Phones/Programmen müssen regelmässig **Updates** installiert werden.
+  - Auf Computern/Smartphones müssen regelmässig **Updates** sowohl von Betriebssystem wie auch von allen installierten Programmen durchgeführt werden.
   
   - Eine **Firewall und Antiviren-Software** auf jedem System ist Pflicht!
   
-  - Verwende einen **Werbe-Blocker**! Dieser ist gratis, blendet Werbung aus und sorgt dafür, dass Werbenetzwerke einen nicht mehr folgen. **[uBlock](https://www.ublock.org/)** ist ein geeigneter Kandidat. 
+  - Verwende einen **Werbe-Blocker**! Dieser ist gratis, blendet Werbung aus und sorgt dafür, dass Werbenetzwerke einem nicht mehr folgen. [uBlock](https://www.ublock.org/) ist ein geeigneter Kandidat. 
 
-  - Verwende wann immer möglich **Verschlüsselung** beim Aufrufen einer Web-Site. **[HTTPS Everywhere](https://www.eff.org/https-everywhere)**.
+  - Verwende wann immer möglich **Verschlüsselung** beim Aufrufen einer Web-Site. [HTTPS Everywhere](https://www.eff.org/https-everywhere) hilft dabei, zu verhindern, dass Seiten ohne Verschlüsselung aufgerufen werden.
   
-  - Wenn möglich, richte zu Hause zwei WiFis ein. Eines für private Zwecke, das andere für Gäste, Freunde, Nachbarn, etc. 
+  - Wenn möglich, richte zu Hause zwei WLANs ein. Eines für private Zwecke, das andere für Gäste, Freunde, Nachbarn, etc. Das Gast-WLAN sollte dabei nur minimalen Zugriff aufs Internet haben und per Firewall vom Rest deines Netzwerks (Smart-TV, NAS, Drucker...) getrennt sein.
   
-  - Richte für Gäste (besser noch für jeden Benutzer) ein separates Benutzer-Konto auf den Computern ein. Das eigene Konto sollte nicht geteilt werden.
+  - Richte für Gäste (besser noch für jede/n Benutzer/-in) ein separates Konto auf deinen Computern ein. Das eigene Konto sollte nicht geteilt werden.
   
+## Verhaltensregeln
   
-## Verhaltensregeln ##
+  - E-Banking oder vergleichbare heikle Aktivitäten sollten von zu Hause aus durchgeführt werden, da das heimische WLAN vertrauenswürdiger ist, als öffentliche WLANs.
   
-  - E-Banking oder vergleichbare heikle Aktivitäten sollten von zu Hause aus durchgeführt werden, da das heimische WiFi vertrauenswürdiger ist, als öffentliche WiFis.
-  
-  - **Loge dich nie(!) auf öffentlichen/fremden Computern** in dein E-Mail-Konto/E-Banking-Konto, etc. ein!
+  - **Logge dich nie (!) auf öffentlichen/fremden Computern** in dein E-Mail-Konto/E-Banking-Konto, etc. ein! Ein gestohlener E-Mail-Account öffnet Angreifern viele Tore auf weitere deiner Dienste und Daten.
     
-  - **Meide Seiten mit zweifelhaften Angeboten**! Sie verbreiten oft auch zweifelhafen Inhalt und die Warscheinlichkeit einer Viren-Infektion ist dementsprechend höher. Professionelle Spiel/Wett/Porno/... Seiten sollten kein Problem sein. Bei Seiten, die z.B. gecrackte Software anbieten, ist eher Vorsicht geboten!
+  - **Meide Seiten mit zweifelhaften Angeboten**! Sie verbreiten oft auch zweifelhafen Inhalt und die Warscheinlichkeit einer Viren-Infektion ist dementsprechend höher. Professionelle Spiel/Wett/Porno/usw.-Seiten sollten kein Problem sein. Bei Seiten, die z.B. gecrackte Software anbieten, ist eher Vorsicht geboten!
   
