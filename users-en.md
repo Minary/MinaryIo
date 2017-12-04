@@ -23,11 +23,10 @@ If you see computers and smartphones simply as tools, you should probably entrus
   
   - Create separate accounts for guests (or every user in general) on your computers. Your own account should not be shared with anyone.
   
-## Verhaltensregeln
-  
-  - E-Banking oder vergleichbare heikle Aktivitäten sollten von zu Hause aus durchgeführt werden, da das heimische WLAN vertrauenswürdiger ist, als öffentliche WLANs.
-  
-  - **Logge dich nie (!) auf öffentlichen/fremden Computern** in dein E-Mail-Konto/E-Banking-Konto, etc. ein! Ein gestohlener E-Mail-Account öffnet Angreifern viele Tore auf weitere deiner Dienste und Daten.
-    
-  - **Meide Seiten mit zweifelhaften Angeboten**! Sie verbreiten oft auch zweifelhafen Inhalt und die Warscheinlichkeit einer Viren-Infektion ist dementsprechend höher. Professionelle Spiel/Wett/Porno/usw.-Seiten sollten kein Problem sein. Bei Seiten, die z.B. gecrackte Software anbieten, ist eher Vorsicht geboten!
-  
+## Personal Behavior
+
+  - E-banking and similarly critical activities should be done from home. Your home WLAN is more trustworthy than public ones.
+
+  - **Never log into your email or bank account using a public computer** or any system you don't own. A stolen email account gives an attacker access to more of your details and to any other systems where you use that address. 
+
+  - **Avoid dubious websites**! They often contain dubious content and there is a higher risk of a virus infection. Professional gambling/betting/porn/etc. websites shouldn't be a problem. But pages that offer e.g. cracked software should be treated with care.
