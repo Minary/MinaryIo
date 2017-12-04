@@ -19,7 +19,7 @@ description:
   en: Minary is a man-in-the-middle data packet rerouting and sniffing tool. It spoofs target systems that are connected to the same LAN as an attacker.
   de: Minary ist ein man-in-the-middle Datenpaket-Rerouting und Sniffing-Tool. Es spooft Zielsysteme die mit demselben Netzwerk verbunden sind wie der Angreifer.
 
-baseurl: "/beta_run" # the subpath of your site, e.g. /blog
+baseurl: "/beta" # the subpath of your site, e.g. /blog
 url: "https://minary.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: rubenunteregger
 github_username:  minary
