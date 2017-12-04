@@ -15,7 +15,7 @@ Wer in Computern/Smartphones lediglich einen Gebrauchsgegenstand sieht, sollte d
   
   - Eine **Firewall und Antiviren-Software** auf jedem System ist Pflicht!
   
-  - Verwende einen **Werbe-Blocker**! Dieser ist gratis, blendet Werbung aus und sorgt dafür, dass Werbenetzwerke einem nicht mehr folgen. [uBlock](https://www.ublock.org/) ist ein geeigneter Kandidat. 
+  - Verwende einen **Werbe-Blocker**! Dieser ist gratis, blendet Werbung aus und sorgt dafür, dass Werbenetzwerke einem nicht mehr folgen. uBlock Origin (für [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/), [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) und [Edge](https://www.microsoft.com/de-ch/store/p/ublock-origin/9nblggh444l4?tduid=(40e71498a7beb4dc57fda3793b5f3062)(259740)(2804583)()())) ist ein guter Kandidat. 
 
   - Verwende wann immer möglich **Verschlüsselung** beim Aufrufen einer Web-Site. [HTTPS Everywhere](https://www.eff.org/https-everywhere) hilft dabei, zu verhindern, dass Seiten ohne Verschlüsselung aufgerufen werden.
   

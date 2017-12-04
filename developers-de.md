@@ -11,6 +11,6 @@ anschliessen und zum Code beitragen. Wünschenswert sind konkrete **Beiträge in
 
 Ebenso wünschenswert sind natürlich **Bug-Reports** zusammen mit einem Machbarkeitsnachweis (proof of concept)!
 
-Minary befindet sich im Beta-Stadium und es enthält kritische [Bugs](https://github.com/Minary/Minary/issues) wie auch weniger fatale Unschönheiten. Beiträge, die den einen oder anderen Bug beheben werden ebenso sehr wertgeschätzt!
+Minary befindet sich im Beta-Stadium und es enthält kritische [Bugs](https://github.com/Minary/Minary/issues) wie auch weniger fatale Unschönheiten. Beiträge, die den einen oder anderen Bug beheben, werden ebenso sehr wertgeschätzt!
 
-Der Quellcode sowie eine Issue-Liste sind auf [GitHub](https://github.com/minary) zu finden.
+Der Quellcode ist auf [GitHub](https://github.com/minary) zu finden.
