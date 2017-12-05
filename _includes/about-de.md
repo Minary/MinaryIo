@@ -14,4 +14,4 @@ Die Software _Minary_ ist das Werkzeug, um das oben erwähnte Ziel umzusetzen. E
 
 ## Disclaimer/Haftungsausschluss
 
-_Minary_ darf ausschliesslich zu Lernzwecken in einer entsprechend abgesicherten Umgebungen verwendet werden. Jegliche Verantwortung für durch sachgemässe oder unsachgemässe Verwendung entstandene Schäden wird ausdrücklich abgelehnt.
+Wir empfehlen, _Minary_ ausschliesslich zu Lernzwecken in einer entsprechend abgesicherten Umgebung zu verwenden. Dabei bist du selber dafür verantwortlich, das geltende Recht zu kennen und korrekt anzuwenden. Jegliche Verantwortung für durch sachgemässe oder unsachgemässe Verwendung entstandene Schäden wird ausdrücklich abgelehnt. Durch die Nutzung dieser Software akzeptierst du die Bedingungen der [GNU General Public License Version 3 (GPLv3)](https://github.com/Minary/Minary/blob/master/LICENSE.md).

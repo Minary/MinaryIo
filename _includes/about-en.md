@@ -12,4 +12,4 @@ _Minary_ is the tool of choice for reaching these goals. It shows that little kn
 
 ## Disclaimer
 
-_Minary_ may only be used for educational purposes inside closed and secured systems. The authors explicitly deny any responsibility for damages resulting from its use.
+We recommend using _Minary_ only for educational purposes inside closed and secured systems. It is your own responsibility to learn about and correctly apply the relevant local laws. The authors explicitly deny any responsibility for damages resulting from _Minary_'s use. By using this software, you agree to the terms of the [GNU General Public License version 3 (GPLv3)](https://github.com/Minary/Minary/blob/master/LICENSE.md).
