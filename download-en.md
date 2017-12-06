@@ -5,7 +5,7 @@ lang: en
 permalink: /download/
 ---
 
-Download the [latest version of Minary]({{ "assets/download/minary.zip" | absolute_url}}) heruntergeladen werden.
+Download the [latest version of Minary]({{ "assets/download/minary.zip" | absolute_url}}).
 
 The source code for Minary is on [GitHub](https://www.github.com/minary).
 
