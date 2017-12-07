@@ -37,9 +37,9 @@
         {% endif %}
 
             {% if site.active_lang == 'de' %}
-            <a class="page-link" href=" {{site.url}}{{ site.baseurl }}{{ page.url }}">English</a>
+            <a class="page-link" href="{{ site.baseurl }}/en{{ page.url }}">English</a>
             {% else %}
-            <a class="page-link" href="{{ site.baseurl }}/de{{ page.url }}">Deutsch</a>
+            <a class="page-link" href=" {{site.url}}{{ site.baseurl }}{{ page.url }}">Deutsch</a>
             {% endif %}
         </div>
       </nav>
