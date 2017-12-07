@@ -5,7 +5,7 @@ lang: de
 permalink: /download/
 ---
 
-[Lade die neuste Minary-Version herunter]({{ "assets/download/minary.zip" | absolute_url}}). für Windows 7, Windows 10 oder neuer.
+[Lade die neuste Minary-Version herunter]({{ "assets/download/minary.zip" | absolute_url}}). Minary läuft auf Windows 7, Windows 10 oder neuer.
 
 Der Minary-Quellcode ist auf [GitHub](https://www.github.com/minary) zu finden.
 
