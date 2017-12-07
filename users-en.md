@@ -27,6 +27,6 @@ If you see computers and smartphones simply as tools, you should probably entrus
 
   - E-banking and similarly critical activities should be done from home. Your home WLAN is more trustworthy than public ones.
 
-  - **Never log into your email or bank account using a public computer** or any system you don't own. A stolen email account gives an attacker access to more of your details and to any other systems where you use that address. 
+  - **Never log into your email or bank account using a public computer** or any system you don't own. A stolen email account gives an attacker access to more of your details, and it can be abused to access other systems where you use that address.
 
   - **Avoid dubious websites**! They often contain dubious content and there is a higher risk of a virus infection. Professional gambling/betting/porn/etc. websites shouldn't be a problem. But pages that offer e.g. cracked software should be treated with care.
