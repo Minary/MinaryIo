@@ -220,11 +220,22 @@ pre {
 }
 
 .post-content { 
+  table {
+    border-spacing: 0;
+  }
+
   td {
     vertical-align: top;
+    padding-bottom: 0.2em;
+    padding-top: 0.2em;
   }
 
   tr td:first-child {
     padding-right: 2em;
+  } 
+  
+  tr:not(:last-child) td  {
+    border-bottom: 1px solid #e3e3e3;
   }
+
 }
