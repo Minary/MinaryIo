@@ -219,6 +219,12 @@ pre {
   }
 }
 
-td {
-  vertical-align: top;
+.post-content { 
+  td {
+    vertical-align: top;
+  }
+
+  tr td:first-child {
+    padding-right: 2em;
+  }
 }
