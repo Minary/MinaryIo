@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Minary
-email: rubenunteregger@gmail.com 
+email: ruben.unteregger@gmail.com 
 description:
   en: Minary is a man-in-the-middle data packet rerouting and sniffing tool. It spoofs target systems that are connected to the same LAN as an attacker.
   de: Minary ist ein man-in-the-middle Datenpaket-Rerouting und Sniffing-Tool. Es spooft Zielsysteme die mit demselben Netzwerk verbunden sind wie der Angreifer.
