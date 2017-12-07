@@ -5,11 +5,11 @@ lang: de
 ---
 
 ## Wie funktioniert Minary
-Falls du mehr über den Einsatz von Minary erfahren willst, folge diesem [Link]({{ "/de/howto" | relative_url }})!
+Falls du mehr über den Einsatz von Minary erfahren willst, folge diesem [Link]({{ "/howto" | relative_url }})!
 
 
 ## Über Minary
-Falls du mehr über die Beweggründe wissen möchtest, weshalb es das Projekt Minary initiiert wurde, folge diesem [Link]({{ "/de/about" | relative_url }})!
+Falls du mehr über die Beweggründe wissen möchtest, weshalb es das Projekt Minary initiiert wurde, folge diesem [Link]({{ "/about" | relative_url }})!
   
   
 ## Neueste Findings
