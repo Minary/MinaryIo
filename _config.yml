@@ -32,7 +32,7 @@ plugins:
   - jekyll-polyglot
 
 languages: ["en", "de"]
-default_lang: "en"
+default_lang: "de"
 exclude_from_localization: ["javascript", "images", "css"]
 parallel_localization: true
 
