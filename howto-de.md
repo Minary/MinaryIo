@@ -31,7 +31,7 @@ Eine Template-Datei ist eine Vorlage für Minary, die einen Angriff automatisier
   - Zielsysteme werden ausgewählt und aktiviert (falls aktiviert)
   - Der Angriff wird gestartet (falls aktiviert)
 
-Templates können entweder selbst generiert werden oder es stehen einige Templates auf der [Projektseite]({{ "/de/findings" | relative_url }}) zum Download bereit. Lade eine Template-Datei auf den Rechner und doppelklicke anschliessend die Template-Datei um den Angriff automatisch zu starten.
+Templates können entweder selbst generiert werden oder es stehen einige Templates auf der [Projektseite unter Findings]({{ "/findings" | relative_url }}) zum Download bereit. Lade eine Template-Datei auf den Rechner und doppelklicke anschliessend die Template-Datei um den Angriff automatisch zu starten.
 
 
 ![Minary gestartet durch ein Template](/assets/minary/loading_template.png){:class="img-responsive"}
