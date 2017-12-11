@@ -16,7 +16,7 @@ Doppelklicken auf eine Template-Datei (Dateierweiterung: .mry) führt alle benö
   
 ## Doppelklick auf Minary.exe
 
-Doppelklicke die Datei **Minary.exe** im Installations-Verzeichnis. Minary wird sich dann in einem neutralen Zustand öffnen und kann für einen Angriff nach Bedarf konfiguriert werden. Vor dem Angriffs müssen folgenden drei Schritte durchgeführt werden:
+Doppelklicke die Datei **Minary.exe** im Installations-Verzeichnis. Minary wird sich dann in einem neutralen Zustand öffnen und kann für einen Angriff nach Bedarf konfiguriert werden. Vor dem Angriff müssen die folgenden drei Schritte durchgeführt werden:
   * Aktiviere die Plugins, die für den Angriff benötigt werden
   * Scanne das Netzwerk nach Ziel-Computern, die angegriffen werden sollen
   * Starte den Angriff und beobachte die Ausgaben in den Plugin-Tabs  
